@@ -65,10 +65,6 @@ Add new features or fixes.
 
 Submit your changes as a pull request.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Developer
 
 This application was developed by Ozan YİĞİT.
